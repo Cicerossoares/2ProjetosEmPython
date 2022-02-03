@@ -1,4 +1,4 @@
-# Projeto 2 - Decida por mim
+# Projeto 2 -- Decida por mim !
 # Resposta automatica aleatoria
 import random
 import PySimpleGUI as sg
