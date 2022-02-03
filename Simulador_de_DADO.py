@@ -10,7 +10,8 @@ class SimuladorDeDado:
         self.valor_maximo = 6
         # Layout
         self.layout = [
-            [sg.Text('Jogar DADO ?')],
+            [sg.Text(' JOGAR DADO ?')],
+
             [sg.Button('sim'), sg.Button('Não')]
         ]
 
